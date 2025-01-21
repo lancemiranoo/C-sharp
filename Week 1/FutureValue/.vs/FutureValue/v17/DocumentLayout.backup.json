@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Full Stack C#\\Week 1\\FutureValue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1386426-5735-4ECD-A30C-0BEB74BF5FA8}|FutureValue\\FutureValue.csproj|d:\\full stack c#\\week 1\\futurevalue\\futurevalue\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1386426-5735-4ECD-A30C-0BEB74BF5FA8}|FutureValue\\FutureValue.csproj|solutionrelative:futurevalue\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1386426-5735-4ECD-A30C-0BEB74BF5FA8}|FutureValue\\FutureValue.csproj|d:\\full stack c#\\week 1\\futurevalue\\futurevalue\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1386426-5735-4ECD-A30C-0BEB74BF5FA8}|FutureValue\\FutureValue.csproj|solutionrelative:futurevalue\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1386426-5735-4ECD-A30C-0BEB74BF5FA8}|FutureValue\\FutureValue.csproj|d:\\full stack c#\\week 1\\futurevalue\\futurevalue\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1386426-5735-4ECD-A30C-0BEB74BF5FA8}|FutureValue\\FutureValue.csproj|solutionrelative:futurevalue\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1386426-5735-4ECD-A30C-0BEB74BF5FA8}|FutureValue\\FutureValue.csproj|d:\\full stack c#\\week 1\\futurevalue\\futurevalue\\views\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1386426-5735-4ECD-A30C-0BEB74BF5FA8}|FutureValue\\FutureValue.csproj|solutionrelative:futurevalue\\views\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1386426-5735-4ECD-A30C-0BEB74BF5FA8}|FutureValue\\FutureValue.csproj|d:\\full stack c#\\week 1\\futurevalue\\futurevalue\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A1386426-5735-4ECD-A30C-0BEB74BF5FA8}|FutureValue\\FutureValue.csproj|solutionrelative:futurevalue\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1386426-5735-4ECD-A30C-0BEB74BF5FA8}|FutureValue\\FutureValue.csproj|d:\\full stack c#\\week 1\\futurevalue\\futurevalue\\models\\futurevaluemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1386426-5735-4ECD-A30C-0BEB74BF5FA8}|FutureValue\\FutureValue.csproj|solutionrelative:futurevalue\\models\\futurevaluemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1386426-5735-4ECD-A30C-0BEB74BF5FA8}|FutureValue\\FutureValue.csproj|d:\\full stack c#\\week 1\\futurevalue\\futurevalue\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1386426-5735-4ECD-A30C-0BEB74BF5FA8}|FutureValue\\FutureValue.csproj|solutionrelative:futurevalue\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1386426-5735-4ECD-A30C-0BEB74BF5FA8}|FutureValue\\FutureValue.csproj|d:\\full stack c#\\week 1\\futurevalue\\futurevalue\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1386426-5735-4ECD-A30C-0BEB74BF5FA8}|FutureValue\\FutureValue.csproj|solutionrelative:futurevalue\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1386426-5735-4ECD-A30C-0BEB74BF5FA8}|FutureValue\\FutureValue.csproj|d:\\full stack c#\\week 1\\futurevalue\\futurevalue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1386426-5735-4ECD-A30C-0BEB74BF5FA8}|FutureValue\\FutureValue.csproj|solutionrelative:futurevalue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "D:\\Full Stack C#\\Week 1\\FutureValue\\FutureValue\\Views\\View.cshtml",
+              "RelativeDocumentMoniker": "FutureValue\\Views\\View.cshtml",
+              "ToolTip": "D:\\Full Stack C#\\Week 1\\FutureValue\\FutureValue\\Views\\View.cshtml",
+              "RelativeToolTip": "FutureValue\\Views\\View.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T21:49:10.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Full Stack C#\\Week 1\\FutureValue\\FutureValue\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FutureValue\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Full Stack C#\\Week 1\\FutureValue\\FutureValue\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FutureValue\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T21:47:15.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Full Stack C#\\Week 1\\FutureValue\\FutureValue\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FutureValue\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Full Stack C#\\Week 1\\FutureValue\\FutureValue\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FutureValue\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T21:46:49.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "D:\\Full Stack C#\\Week 1\\FutureValue\\FutureValue\\wwwroot\\css\\StyleSheet.css",
+              "RelativeDocumentMoniker": "FutureValue\\wwwroot\\css\\StyleSheet.css",
+              "ToolTip": "D:\\Full Stack C#\\Week 1\\FutureValue\\FutureValue\\wwwroot\\css\\StyleSheet.css",
+              "RelativeToolTip": "FutureValue\\wwwroot\\css\\StyleSheet.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-14T21:35:26.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Full Stack C#\\Week 1\\FutureValue\\FutureValue\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FutureValue\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Full Stack C#\\Week 1\\FutureValue\\FutureValue\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FutureValue\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T21:05:28.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FutureValueModel.cs",
+              "DocumentMoniker": "D:\\Full Stack C#\\Week 1\\FutureValue\\FutureValue\\Models\\FutureValueModel.cs",
+              "RelativeDocumentMoniker": "FutureValue\\Models\\FutureValueModel.cs",
+              "ToolTip": "D:\\Full Stack C#\\Week 1\\FutureValue\\FutureValue\\Models\\FutureValueModel.cs",
+              "RelativeToolTip": "FutureValue\\Models\\FutureValueModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:54:09.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Full Stack C#\\Week 1\\FutureValue\\FutureValue\\Program.cs",
+              "RelativeDocumentMoniker": "FutureValue\\Program.cs",
+              "ToolTip": "D:\\Full Stack C#\\Week 1\\FutureValue\\FutureValue\\Program.cs",
+              "RelativeToolTip": "FutureValue\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:49:47.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Full Stack C#\\Week 1\\FutureValue\\FutureValue\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FutureValue\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Full Stack C#\\Week 1\\FutureValue\\FutureValue\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FutureValue\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T20:42:13.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Full Stack C#\\Week 1\\FutureValue\\FutureValue\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FutureValue\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Full Stack C#\\Week 1\\FutureValue\\FutureValue\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FutureValue\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:30:09.718Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

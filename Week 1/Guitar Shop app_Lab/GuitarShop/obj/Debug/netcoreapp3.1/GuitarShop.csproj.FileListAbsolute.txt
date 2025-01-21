@@ -1,0 +1,339 @@
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\libman.json
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.exe
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.deps.json
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.runtimeconfig.json
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.runtimeconfig.dev.json
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.pdb
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.Views.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.Views.pdb
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.csproj.AssemblyReference.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.GeneratedMSBuildEditorConfig.editorconfig
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.AssemblyInfoInputs.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.AssemblyInfo.cs
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.csproj.CoreCompileInputs.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.MvcApplicationPartsAssemblyInfo.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorAssemblyInfo.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorAssemblyInfo.cs
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.TagHelpers.input.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.TagHelpers.output.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorCoreGenerate.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Detail.cshtml.g.cs
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\_ViewImports.cshtml.g.cs
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\Razor\_ViewStart.cshtml.g.cs
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorTargetAssemblyInfo.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorTargetAssemblyInfo.cs
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.Views.pdb
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\GuitarShop.StaticWebAssets.Manifest.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\GuitarShop.StaticWebAssets.Pack.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.GuitarShop.Microsoft.AspNetCore.StaticWebAssets.props
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.GuitarShop.props
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.GuitarShop.props
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.GuitarShop.props
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.csproj.CopyComplete
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.pdb
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.genruntimeconfig.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\libman.json
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.exe
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.deps.json
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.runtimeconfig.json
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.runtimeconfig.dev.json
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.pdb
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.Views.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.Views.pdb
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.csproj.AssemblyReference.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.GeneratedMSBuildEditorConfig.editorconfig
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.AssemblyInfoInputs.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.AssemblyInfo.cs
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.csproj.CoreCompileInputs.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.MvcApplicationPartsAssemblyInfo.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorAssemblyInfo.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorAssemblyInfo.cs
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.TagHelpers.input.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.TagHelpers.output.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorCoreGenerate.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Detail.cshtml.g.cs
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\Razor\_ViewImports.cshtml.g.cs
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\Razor\_ViewStart.cshtml.g.cs
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorTargetAssemblyInfo.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorTargetAssemblyInfo.cs
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.Views.pdb
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\GuitarShop.StaticWebAssets.Manifest.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\GuitarShop.StaticWebAssets.Pack.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.GuitarShop.Microsoft.AspNetCore.StaticWebAssets.props
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.GuitarShop.props
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.GuitarShop.props
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.GuitarShop.props
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.csproj.CopyComplete
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.pdb
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\student_download\book_apps\Ch01GuitarShop\Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.genruntimeconfig.cache
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\libman.json
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.exe
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.deps.json
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.runtimeconfig.json
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.runtimeconfig.dev.json
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.pdb
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.Views.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\GuitarShop.Views.pdb
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.csproj.AssemblyReference.cache
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.AssemblyInfoInputs.cache
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.AssemblyInfo.cs
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.csproj.CoreCompileInputs.cache
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorAssemblyInfo.cache
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorAssemblyInfo.cs
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.TagHelpers.input.cache
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.TagHelpers.output.cache
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorCoreGenerate.cache
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Detail.cshtml.g.cs
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\Razor\_ViewImports.cshtml.g.cs
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\Razor\_ViewStart.cshtml.g.cs
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorTargetAssemblyInfo.cache
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.RazorTargetAssemblyInfo.cs
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.Views.pdb
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\GuitarShop.StaticWebAssets.Manifest.cache
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\GuitarShop.StaticWebAssets.Pack.cache
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.GuitarShop.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.GuitarShop.props
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.GuitarShop.props
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.GuitarShop.props
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.csproj.Up2Date
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.dll
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.pdb
+D:\C#\Term 2\Week 1\Guitar Shop app_Lab\GuitarShop\obj\Debug\netcoreapp3.1\GuitarShop.genruntimeconfig.cache

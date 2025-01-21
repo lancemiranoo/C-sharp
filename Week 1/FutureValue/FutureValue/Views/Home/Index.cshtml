@@ -1,0 +1,39 @@
+﻿@model FutureValueModel
+
+@{
+    ViewBag.Title = "Future Value Calculator";
+}
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Future Value Calculator</title>
+    </head>
+    <body>
+        <h1>Future Value Calculator</h1>
+        <form asp-asction="Index" method="post">
+            <div>
+                <label asp-for="MonthlyInvestment">
+                    Monthly Investment:
+                </label>
+                <input asp-for="MonthlyInvestment" />
+            </div>
+            <div>
+                <label asp-for="YearlyInterestRate">
+                    Yearly Interest Rate:
+                </label>
+                <input asp-for="YearlyInterestRate" />
+            </div>
+            <div>
+                <label asp-for="Years">Number of Years:</label>
+                <input asp-for="Years" />
+            </div>
+            <div>
+                <label>Future Value:</label>
+                <input value="@ViewBag.FV.ToString("c2")"readonly />
+            </div>
+            <button type="submit">Calculate</button>
+            <a asp-action="Index">Clear</a>
+        </form>
+    </body>
+</html>

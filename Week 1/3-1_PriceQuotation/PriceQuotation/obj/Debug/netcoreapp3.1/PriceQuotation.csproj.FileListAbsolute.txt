@@ -1,0 +1,76 @@
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\appsettings.json
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\libman.json
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.exe
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.deps.json
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.runtimeconfig.json
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.runtimeconfig.dev.json
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.pdb
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.Views.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.Views.pdb
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.GeneratedMSBuildEditorConfig.editorconfig
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.AssemblyInfoInputs.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.AssemblyInfo.cs
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.csproj.CoreCompileInputs.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.MvcApplicationPartsAssemblyInfo.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.RazorAssemblyInfo.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.RazorAssemblyInfo.cs
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.TagHelpers.input.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.TagHelpers.output.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.RazorCoreGenerate.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.RazorTargetAssemblyInfo.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.RazorTargetAssemblyInfo.cs
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.Views.pdb
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\staticwebassets\PriceQuotation.StaticWebAssets.Manifest.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\staticwebassets\PriceQuotation.StaticWebAssets.Pack.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.PriceQuotation.Microsoft.AspNetCore.StaticWebAssets.props
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.PriceQuotation.props
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.PriceQuotation.props
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.PriceQuotation.props
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.dll
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.pdb
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.genruntimeconfig.cache
+E:\RedDeerPoly\courses\C sharp\BOOKS\CoreMVC\aspnet_core_mvc\instructors\student_projects\project_solutions\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.csproj.CopyComplete
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\libman.json
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.exe
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.deps.json
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.runtimeconfig.json
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.runtimeconfig.dev.json
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.dll
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.pdb
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.Views.dll
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\bin\Debug\netcoreapp3.1\PriceQuotation.Views.pdb
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.AssemblyInfoInputs.cache
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.AssemblyInfo.cs
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.csproj.CoreCompileInputs.cache
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.MvcApplicationPartsAssemblyInfo.cache
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.RazorAssemblyInfo.cache
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.RazorAssemblyInfo.cs
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.TagHelpers.input.cache
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.TagHelpers.output.cache
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.RazorCoreGenerate.cache
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.RazorTargetAssemblyInfo.cache
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.RazorTargetAssemblyInfo.cs
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.Views.pdb
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\staticwebassets\PriceQuotation.StaticWebAssets.Manifest.cache
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\staticwebassets\PriceQuotation.StaticWebAssets.Pack.cache
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.PriceQuotation.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.PriceQuotation.props
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.PriceQuotation.props
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.PriceQuotation.props
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.dll
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.pdb
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuotation.genruntimeconfig.cache
+D:\Full Stack C#\Week 1\3-1_PriceQuotation\PriceQuotation\obj\Debug\netcoreapp3.1\PriceQuo.FA635081.Up2Date

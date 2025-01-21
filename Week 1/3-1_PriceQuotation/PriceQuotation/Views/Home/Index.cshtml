@@ -1,0 +1,61 @@
+﻿@model Quotation
+
+@{
+    ViewBag.Title = "Price Quotation";
+}
+
+<form asp-action="Index" method="post">
+
+    <div class="row form-group">
+        <label class="col-sm-3" asp-for="Subtotal">Subtotal:</label>
+        <div class="col-sm-4">
+            <input class="form-control" asp-for="Subtotal" />
+        </div>
+        <span class="col-sm text-danger" asp-validation-for="Subtotal"></span>
+    </div>
+
+    <div class="row form-group">
+        <label class="col-sm-3" for="Province" asp-for="Province">Choose a province:</label>
+        <div class="col-sm-4">
+            <select name="Province" asp-for="Province" id="province">
+                <option value="5">Alberta</option>
+                <option value="13">Ontario</option>
+                <option value="12">British Columbia</option>
+                <option value="10">Saskatchewan</option>
+            </select>
+        </div>
+        <span class="col-sm text-danger" asp-validation-for="Province"></span>
+    </div>
+
+
+    @* <div class="row form-group"> *@
+    @*     <label class="col-sm-3" asp-for="DiscountPercent">Discount percent:</label> *@
+    @*     <div class="col-sm-4"> *@
+    @*         <input class="form-control" asp-for="DiscountPercent" /> *@
+    @*     </div> *@
+    @*     <span class="col-sm text-danger" asp-validation-for="DiscountPercent"></span> *@
+    @* </div> *@
+
+    <div class="row form-group">
+        <label class="col-sm-3">Discount percent:</label>
+        <label class="col-sm-4">@ViewBag.Percent.ToString()%</label>
+    </div>
+
+    <div class="row form-group">
+        <label class="col-sm-3">Discount amount:</label>
+        <label class="col-sm-4">@ViewBag.Discount.ToString("c2")</label>
+    </div>
+
+    <div class="row form-group">
+        <label class="col-sm-3">Total:</label>
+        <label class="col-sm-4">@ViewBag.Total.ToString("c2")</label>
+    </div>
+
+    <div class="row">
+        <div class="col">
+            <button class="btn btn-success" type="submit">Calculate</button>
+            <a class="btn btn-success ml-2" asp-action="Index">Clear</a>
+        </div>
+    </div>
+
+</form>
