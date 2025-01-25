@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ryVUoRyHRyE=",
+  "dgSpecHash": "4w07tNUEv5A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\johna\\source\\repos\\MovieList\\MovieList\\MovieList.csproj",
+  "projectFilePath": "D:\\Full Stack C#\\Week 2\\MovieList\\MovieList\\MovieList.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\johna\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\johna\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
