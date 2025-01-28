@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johna\\source\\repos\\productMaintenance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB522A4-0F6D-489D-8268-BA2506E9E1D1}|productMaintenance\\productMaintenance.csproj|c:\\users\\johna\\source\\repos\\productmaintenance\\productmaintenance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AB522A4-0F6D-489D-8268-BA2506E9E1D1}|productMaintenance\\productMaintenance.csproj|solutionrelative:productmaintenance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB522A4-0F6D-489D-8268-BA2506E9E1D1}|productMaintenance\\productMaintenance.csproj|c:\\users\\johna\\source\\repos\\productmaintenance\\productmaintenance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB522A4-0F6D-489D-8268-BA2506E9E1D1}|productMaintenance\\productMaintenance.csproj|solutionrelative:productmaintenance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB522A4-0F6D-489D-8268-BA2506E9E1D1}|productMaintenance\\productMaintenance.csproj|c:\\users\\johna\\source\\repos\\productmaintenance\\productmaintenance\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB522A4-0F6D-489D-8268-BA2506E9E1D1}|productMaintenance\\productMaintenance.csproj|solutionrelative:productmaintenance\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB522A4-0F6D-489D-8268-BA2506E9E1D1}|productMaintenance\\productMaintenance.csproj|c:\\users\\johna\\source\\repos\\productmaintenance\\productmaintenance\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB522A4-0F6D-489D-8268-BA2506E9E1D1}|productMaintenance\\productMaintenance.csproj|solutionrelative:productmaintenance\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\johna\\source\\repos\\productMaintenance\\productMaintenance\\Form1.cs",
+              "RelativeDocumentMoniker": "productMaintenance\\Form1.cs",
+              "ToolTip": "C:\\Users\\johna\\source\\repos\\productMaintenance\\productMaintenance\\Form1.cs",
+              "RelativeToolTip": "productMaintenance\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T21:57:27.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\johna\\source\\repos\\productMaintenance\\productMaintenance\\Form1.cs",
+              "RelativeDocumentMoniker": "productMaintenance\\Form1.cs",
+              "ToolTip": "C:\\Users\\johna\\source\\repos\\productMaintenance\\productMaintenance\\Form1.cs [Design]",
+              "RelativeToolTip": "productMaintenance\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T21:48:41.112Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\johna\\source\\repos\\productMaintenance\\productMaintenance\\ProductManager.cs",
+              "RelativeDocumentMoniker": "productMaintenance\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\johna\\source\\repos\\productMaintenance\\productMaintenance\\ProductManager.cs",
+              "RelativeToolTip": "productMaintenance\\ProductManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:11:55.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\johna\\source\\repos\\productMaintenance\\productMaintenance\\Product.cs",
+              "RelativeDocumentMoniker": "productMaintenance\\Product.cs",
+              "ToolTip": "C:\\Users\\johna\\source\\repos\\productMaintenance\\productMaintenance\\Product.cs",
+              "RelativeToolTip": "productMaintenance\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:04:42.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

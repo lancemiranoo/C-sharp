@@ -1,0 +1,10 @@
+C:\Users\johna\source\repos\LinqDemoWindowsForms\LinqDemoWindowsForms\bin\Debug\LinqDemoWindowsForms.exe.config
+C:\Users\johna\source\repos\LinqDemoWindowsForms\LinqDemoWindowsForms\bin\Debug\LinqDemoWindowsForms.exe
+C:\Users\johna\source\repos\LinqDemoWindowsForms\LinqDemoWindowsForms\bin\Debug\LinqDemoWindowsForms.pdb
+C:\Users\johna\source\repos\LinqDemoWindowsForms\LinqDemoWindowsForms\obj\Debug\LinqDemoWindowsForms.csproj.AssemblyReference.cache
+C:\Users\johna\source\repos\LinqDemoWindowsForms\LinqDemoWindowsForms\obj\Debug\LinqDemoWindowsForms.Form1.resources
+C:\Users\johna\source\repos\LinqDemoWindowsForms\LinqDemoWindowsForms\obj\Debug\LinqDemoWindowsForms.Properties.Resources.resources
+C:\Users\johna\source\repos\LinqDemoWindowsForms\LinqDemoWindowsForms\obj\Debug\LinqDemoWindowsForms.csproj.GenerateResource.cache
+C:\Users\johna\source\repos\LinqDemoWindowsForms\LinqDemoWindowsForms\obj\Debug\LinqDemoWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\johna\source\repos\LinqDemoWindowsForms\LinqDemoWindowsForms\obj\Debug\LinqDemoWindowsForms.exe
+C:\Users\johna\source\repos\LinqDemoWindowsForms\LinqDemoWindowsForms\obj\Debug\LinqDemoWindowsForms.pdb

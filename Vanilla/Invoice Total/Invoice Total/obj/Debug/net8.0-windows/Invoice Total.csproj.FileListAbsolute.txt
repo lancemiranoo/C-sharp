@@ -1,0 +1,16 @@
+C:\Users\johna\source\repos\Invoice Total\Invoice Total\bin\Debug\net8.0-windows\Invoice Total.exe
+C:\Users\johna\source\repos\Invoice Total\Invoice Total\bin\Debug\net8.0-windows\Invoice Total.deps.json
+C:\Users\johna\source\repos\Invoice Total\Invoice Total\bin\Debug\net8.0-windows\Invoice Total.runtimeconfig.json
+C:\Users\johna\source\repos\Invoice Total\Invoice Total\bin\Debug\net8.0-windows\Invoice Total.dll
+C:\Users\johna\source\repos\Invoice Total\Invoice Total\bin\Debug\net8.0-windows\Invoice Total.pdb
+C:\Users\johna\source\repos\Invoice Total\Invoice Total\obj\Debug\net8.0-windows\Invoice_Total.Form1.resources
+C:\Users\johna\source\repos\Invoice Total\Invoice Total\obj\Debug\net8.0-windows\Invoice Total.csproj.GenerateResource.cache
+C:\Users\johna\source\repos\Invoice Total\Invoice Total\obj\Debug\net8.0-windows\Invoice Total.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johna\source\repos\Invoice Total\Invoice Total\obj\Debug\net8.0-windows\Invoice Total.AssemblyInfoInputs.cache
+C:\Users\johna\source\repos\Invoice Total\Invoice Total\obj\Debug\net8.0-windows\Invoice Total.AssemblyInfo.cs
+C:\Users\johna\source\repos\Invoice Total\Invoice Total\obj\Debug\net8.0-windows\Invoice Total.csproj.CoreCompileInputs.cache
+C:\Users\johna\source\repos\Invoice Total\Invoice Total\obj\Debug\net8.0-windows\Invoice Total.dll
+C:\Users\johna\source\repos\Invoice Total\Invoice Total\obj\Debug\net8.0-windows\refint\Invoice Total.dll
+C:\Users\johna\source\repos\Invoice Total\Invoice Total\obj\Debug\net8.0-windows\Invoice Total.pdb
+C:\Users\johna\source\repos\Invoice Total\Invoice Total\obj\Debug\net8.0-windows\Invoice Total.genruntimeconfig.cache
+C:\Users\johna\source\repos\Invoice Total\Invoice Total\obj\Debug\net8.0-windows\ref\Invoice Total.dll

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johna\\source\\repos\\SimpleDataBindingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B9EA8D-4E49-4799-B2E3-BE68EA07B5FB}|SimpleDataBindingApp\\SimpleDataBindingApp.csproj|c:\\users\\johna\\source\\repos\\simpledatabindingapp\\simpledatabindingapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B9EA8D-4E49-4799-B2E3-BE68EA07B5FB}|SimpleDataBindingApp\\SimpleDataBindingApp.csproj|solutionrelative:simpledatabindingapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B9EA8D-4E49-4799-B2E3-BE68EA07B5FB}|SimpleDataBindingApp\\SimpleDataBindingApp.csproj|c:\\users\\johna\\source\\repos\\simpledatabindingapp\\simpledatabindingapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9B9EA8D-4E49-4799-B2E3-BE68EA07B5FB}|SimpleDataBindingApp\\SimpleDataBindingApp.csproj|solutionrelative:simpledatabindingapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\johna\\source\\repos\\SimpleDataBindingApp\\SimpleDataBindingApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SimpleDataBindingApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\johna\\source\\repos\\SimpleDataBindingApp\\SimpleDataBindingApp\\MainWindow.xaml",
+              "RelativeToolTip": "SimpleDataBindingApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-06T22:29:58.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\johna\\source\\repos\\SimpleDataBindingApp\\SimpleDataBindingApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SimpleDataBindingApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\johna\\source\\repos\\SimpleDataBindingApp\\SimpleDataBindingApp\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "SimpleDataBindingApp\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T22:29:52.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\johna\source\repos\AnimalSoundApp\AnimalSoundApp\bin\Debug\AnimalSoundApp.exe.config
+C:\Users\johna\source\repos\AnimalSoundApp\AnimalSoundApp\bin\Debug\AnimalSoundApp.exe
+C:\Users\johna\source\repos\AnimalSoundApp\AnimalSoundApp\bin\Debug\AnimalSoundApp.pdb
+C:\Users\johna\source\repos\AnimalSoundApp\AnimalSoundApp\obj\Debug\AnimalSoundApp.csproj.AssemblyReference.cache
+C:\Users\johna\source\repos\AnimalSoundApp\AnimalSoundApp\obj\Debug\AnimalSoundApp.MainForm.resources
+C:\Users\johna\source\repos\AnimalSoundApp\AnimalSoundApp\obj\Debug\AnimalSoundApp.Properties.Resources.resources
+C:\Users\johna\source\repos\AnimalSoundApp\AnimalSoundApp\obj\Debug\AnimalSoundApp.csproj.GenerateResource.cache
+C:\Users\johna\source\repos\AnimalSoundApp\AnimalSoundApp\obj\Debug\AnimalSoundApp.csproj.CoreCompileInputs.cache
+C:\Users\johna\source\repos\AnimalSoundApp\AnimalSoundApp\obj\Debug\AnimalSoundApp.exe
+C:\Users\johna\source\repos\AnimalSoundApp\AnimalSoundApp\obj\Debug\AnimalSoundApp.pdb

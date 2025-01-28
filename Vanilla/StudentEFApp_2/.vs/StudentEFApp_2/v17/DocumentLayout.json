@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johna\\source\\repos\\StudentEFApp_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70EE83F6-C76C-435D-A2DE-718792488079}|StudentEFApp_2\\StudentEFApp_2.csproj|c:\\users\\johna\\source\\repos\\studentefapp_2\\studentefapp_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70EE83F6-C76C-435D-A2DE-718792488079}|StudentEFApp_2\\StudentEFApp_2.csproj|solutionrelative:studentefapp_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EE83F6-C76C-435D-A2DE-718792488079}|StudentEFApp_2\\StudentEFApp_2.csproj|c:\\users\\johna\\source\\repos\\studentefapp_2\\studentefapp_2\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EE83F6-C76C-435D-A2DE-718792488079}|StudentEFApp_2\\StudentEFApp_2.csproj|solutionrelative:studentefapp_2\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EE83F6-C76C-435D-A2DE-718792488079}|StudentEFApp_2\\StudentEFApp_2.csproj|c:\\users\\johna\\source\\repos\\studentefapp_2\\studentefapp_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EE83F6-C76C-435D-A2DE-718792488079}|StudentEFApp_2\\StudentEFApp_2.csproj|solutionrelative:studentefapp_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EE83F6-C76C-435D-A2DE-718792488079}|StudentEFApp_2\\StudentEFApp_2.csproj|c:\\users\\johna\\source\\repos\\studentefapp_2\\studentefapp_2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EE83F6-C76C-435D-A2DE-718792488079}|StudentEFApp_2\\StudentEFApp_2.csproj|solutionrelative:studentefapp_2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\johna\\source\\repos\\StudentEFApp_2\\StudentEFApp_2\\Migrations\\20241118232431_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentEFApp_2\\Migrations\\20241118232431_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\johna\\source\\repos\\StudentEFApp_2\\StudentEFApp_2\\Form1.cs",
+              "RelativeDocumentMoniker": "StudentEFApp_2\\Form1.cs",
+              "ToolTip": "C:\\Users\\johna\\source\\repos\\StudentEFApp_2\\StudentEFApp_2\\Form1.cs",
+              "RelativeToolTip": "StudentEFApp_2\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T23:28:17.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241118232431_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\johna\\source\\repos\\StudentEFApp_2\\StudentEFApp_2\\Migrations\\20241118232431_InitialCreate.cs",
+              "RelativeDocumentMoniker": "StudentEFApp_2\\Migrations\\20241118232431_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\johna\\source\\repos\\StudentEFApp_2\\StudentEFApp_2\\Migrations\\20241118232431_InitialCreate.cs",
+              "RelativeToolTip": "StudentEFApp_2\\Migrations\\20241118232431_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T23:24:32.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "C:\\Users\\johna\\source\\repos\\StudentEFApp_2\\StudentEFApp_2\\StudentContext.cs",
+              "RelativeDocumentMoniker": "StudentEFApp_2\\StudentContext.cs",
+              "ToolTip": "C:\\Users\\johna\\source\\repos\\StudentEFApp_2\\StudentEFApp_2\\StudentContext.cs",
+              "RelativeToolTip": "StudentEFApp_2\\StudentContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T23:23:11.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\johna\\source\\repos\\StudentEFApp_2\\StudentEFApp_2\\Student.cs",
+              "RelativeDocumentMoniker": "StudentEFApp_2\\Student.cs",
+              "ToolTip": "C:\\Users\\johna\\source\\repos\\StudentEFApp_2\\StudentEFApp_2\\Student.cs",
+              "RelativeToolTip": "StudentEFApp_2\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T23:22:41.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\johna\\source\\repos\\StudentEFApp_2\\StudentEFApp_2\\Form1.cs",
+              "RelativeDocumentMoniker": "StudentEFApp_2\\Form1.cs",
+              "ToolTip": "C:\\Users\\johna\\source\\repos\\StudentEFApp_2\\StudentEFApp_2\\Form1.cs [Design]",
+              "RelativeToolTip": "StudentEFApp_2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T23:20:53.583Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

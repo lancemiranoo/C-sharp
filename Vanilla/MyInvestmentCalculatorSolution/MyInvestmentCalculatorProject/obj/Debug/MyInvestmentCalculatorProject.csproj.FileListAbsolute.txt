@@ -1,0 +1,10 @@
+C:\Users\johna\source\repos\MyInvestmentCalculatorSolution\MyInvestmentCalculatorProject\bin\Debug\MyInvestmentCalculatorProject.exe.config
+C:\Users\johna\source\repos\MyInvestmentCalculatorSolution\MyInvestmentCalculatorProject\bin\Debug\MyInvestmentCalculatorProject.exe
+C:\Users\johna\source\repos\MyInvestmentCalculatorSolution\MyInvestmentCalculatorProject\bin\Debug\MyInvestmentCalculatorProject.pdb
+C:\Users\johna\source\repos\MyInvestmentCalculatorSolution\MyInvestmentCalculatorProject\obj\Debug\MyInvestmentCalculatorProject.csproj.AssemblyReference.cache
+C:\Users\johna\source\repos\MyInvestmentCalculatorSolution\MyInvestmentCalculatorProject\obj\Debug\MyInvestmentCalculatorProject.Form1.resources
+C:\Users\johna\source\repos\MyInvestmentCalculatorSolution\MyInvestmentCalculatorProject\obj\Debug\MyInvestmentCalculatorProject.Properties.Resources.resources
+C:\Users\johna\source\repos\MyInvestmentCalculatorSolution\MyInvestmentCalculatorProject\obj\Debug\MyInvestmentCalculatorProject.csproj.GenerateResource.cache
+C:\Users\johna\source\repos\MyInvestmentCalculatorSolution\MyInvestmentCalculatorProject\obj\Debug\MyInvestmentCalculatorProject.csproj.CoreCompileInputs.cache
+C:\Users\johna\source\repos\MyInvestmentCalculatorSolution\MyInvestmentCalculatorProject\obj\Debug\MyInvestmentCalculatorProject.exe
+C:\Users\johna\source\repos\MyInvestmentCalculatorSolution\MyInvestmentCalculatorProject\obj\Debug\MyInvestmentCalculatorProject.pdb

@@ -1,0 +1,10 @@
+C:\Users\johna\source\repos\productMaintenance\productMaintenance\bin\Debug\productMaintenance.exe.config
+C:\Users\johna\source\repos\productMaintenance\productMaintenance\bin\Debug\productMaintenance.exe
+C:\Users\johna\source\repos\productMaintenance\productMaintenance\bin\Debug\productMaintenance.pdb
+C:\Users\johna\source\repos\productMaintenance\productMaintenance\obj\Debug\productMaintenance.csproj.AssemblyReference.cache
+C:\Users\johna\source\repos\productMaintenance\productMaintenance\obj\Debug\productMaintenance.Form1.resources
+C:\Users\johna\source\repos\productMaintenance\productMaintenance\obj\Debug\productMaintenance.Properties.Resources.resources
+C:\Users\johna\source\repos\productMaintenance\productMaintenance\obj\Debug\productMaintenance.csproj.GenerateResource.cache
+C:\Users\johna\source\repos\productMaintenance\productMaintenance\obj\Debug\productMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\johna\source\repos\productMaintenance\productMaintenance\obj\Debug\productMaintenance.exe
+C:\Users\johna\source\repos\productMaintenance\productMaintenance\obj\Debug\productMaintenance.pdb

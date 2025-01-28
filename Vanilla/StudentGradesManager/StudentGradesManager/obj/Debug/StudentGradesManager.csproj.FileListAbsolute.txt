@@ -1,0 +1,10 @@
+C:\Users\johna\source\repos\StudentGradesManager\StudentGradesManager\bin\Debug\StudentGradesManager.exe.config
+C:\Users\johna\source\repos\StudentGradesManager\StudentGradesManager\bin\Debug\StudentGradesManager.exe
+C:\Users\johna\source\repos\StudentGradesManager\StudentGradesManager\bin\Debug\StudentGradesManager.pdb
+C:\Users\johna\source\repos\StudentGradesManager\StudentGradesManager\obj\Debug\StudentGradesManager.csproj.AssemblyReference.cache
+C:\Users\johna\source\repos\StudentGradesManager\StudentGradesManager\obj\Debug\StudentGradesManager.Form1.resources
+C:\Users\johna\source\repos\StudentGradesManager\StudentGradesManager\obj\Debug\StudentGradesManager.Properties.Resources.resources
+C:\Users\johna\source\repos\StudentGradesManager\StudentGradesManager\obj\Debug\StudentGradesManager.csproj.GenerateResource.cache
+C:\Users\johna\source\repos\StudentGradesManager\StudentGradesManager\obj\Debug\StudentGradesManager.csproj.CoreCompileInputs.cache
+C:\Users\johna\source\repos\StudentGradesManager\StudentGradesManager\obj\Debug\StudentGradesManager.exe
+C:\Users\johna\source\repos\StudentGradesManager\StudentGradesManager\obj\Debug\StudentGradesManager.pdb

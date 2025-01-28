@@ -1,0 +1,10 @@
+C:\Users\johna\source\repos\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.AssemblyReference.cache
+C:\Users\johna\source\repos\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.Form1.resources
+C:\Users\johna\source\repos\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.Properties.Resources.resources
+C:\Users\johna\source\repos\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.GenerateResource.cache
+C:\Users\johna\source\repos\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\johna\source\repos\InheritanceDemo\InheritanceDemo\bin\Debug\InheritanceDemo.exe.config
+C:\Users\johna\source\repos\InheritanceDemo\InheritanceDemo\bin\Debug\InheritanceDemo.exe
+C:\Users\johna\source\repos\InheritanceDemo\InheritanceDemo\bin\Debug\InheritanceDemo.pdb
+C:\Users\johna\source\repos\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.exe
+C:\Users\johna\source\repos\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.pdb

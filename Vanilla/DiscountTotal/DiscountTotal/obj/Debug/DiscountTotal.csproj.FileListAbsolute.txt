@@ -1,0 +1,10 @@
+C:\Users\johna\source\repos\DiscountTotal\DiscountTotal\bin\Debug\DiscountTotal.exe.config
+C:\Users\johna\source\repos\DiscountTotal\DiscountTotal\bin\Debug\DiscountTotal.exe
+C:\Users\johna\source\repos\DiscountTotal\DiscountTotal\bin\Debug\DiscountTotal.pdb
+C:\Users\johna\source\repos\DiscountTotal\DiscountTotal\obj\Debug\DiscountTotal.csproj.AssemblyReference.cache
+C:\Users\johna\source\repos\DiscountTotal\DiscountTotal\obj\Debug\DiscountTotal.Form1.resources
+C:\Users\johna\source\repos\DiscountTotal\DiscountTotal\obj\Debug\DiscountTotal.Properties.Resources.resources
+C:\Users\johna\source\repos\DiscountTotal\DiscountTotal\obj\Debug\DiscountTotal.csproj.GenerateResource.cache
+C:\Users\johna\source\repos\DiscountTotal\DiscountTotal\obj\Debug\DiscountTotal.csproj.CoreCompileInputs.cache
+C:\Users\johna\source\repos\DiscountTotal\DiscountTotal\obj\Debug\DiscountTotal.exe
+C:\Users\johna\source\repos\DiscountTotal\DiscountTotal\obj\Debug\DiscountTotal.pdb

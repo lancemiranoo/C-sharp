@@ -1,0 +1,8 @@
+C:\Users\johna\source\repos\StudentEFApp\StudentEFApp\obj\Debug\net8.0-windows\StudentEFApp.csproj.AssemblyReference.cache
+C:\Users\johna\source\repos\StudentEFApp\StudentEFApp\obj\Debug\net8.0-windows\StudentEFApp.Form1.resources
+C:\Users\johna\source\repos\StudentEFApp\StudentEFApp\obj\Debug\net8.0-windows\StudentEFApp.Properties.Resources.resources
+C:\Users\johna\source\repos\StudentEFApp\StudentEFApp\obj\Debug\net8.0-windows\StudentEFApp.csproj.GenerateResource.cache
+C:\Users\johna\source\repos\StudentEFApp\StudentEFApp\obj\Debug\net8.0-windows\StudentEFApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johna\source\repos\StudentEFApp\StudentEFApp\obj\Debug\net8.0-windows\StudentEFApp.AssemblyInfoInputs.cache
+C:\Users\johna\source\repos\StudentEFApp\StudentEFApp\obj\Debug\net8.0-windows\StudentEFApp.AssemblyInfo.cs
+C:\Users\johna\source\repos\StudentEFApp\StudentEFApp\obj\Debug\net8.0-windows\StudentEFApp.csproj.CoreCompileInputs.cache

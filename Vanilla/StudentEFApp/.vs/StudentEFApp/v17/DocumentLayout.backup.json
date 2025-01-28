@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johna\\source\\repos\\StudentEFApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D536A5A8-CF05-41BD-AD99-9F9E9DC05DCD}|StudentEFApp\\StudentEFApp.csproj|c:\\users\\johna\\source\\repos\\studentefapp\\studentefapp\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D536A5A8-CF05-41BD-AD99-9F9E9DC05DCD}|StudentEFApp\\StudentEFApp.csproj|solutionrelative:studentefapp\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536A5A8-CF05-41BD-AD99-9F9E9DC05DCD}|StudentEFApp\\StudentEFApp.csproj|c:\\users\\johna\\source\\repos\\studentefapp\\studentefapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D536A5A8-CF05-41BD-AD99-9F9E9DC05DCD}|StudentEFApp\\StudentEFApp.csproj|solutionrelative:studentefapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536A5A8-CF05-41BD-AD99-9F9E9DC05DCD}|StudentEFApp\\StudentEFApp.csproj|C:\\Users\\johna\\source\\repos\\StudentEFApp\\studentefapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D536A5A8-CF05-41BD-AD99-9F9E9DC05DCD}|StudentEFApp\\StudentEFApp.csproj|solutionrelative:studentefapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "C:\\Users\\johna\\source\\repos\\StudentEFApp\\StudentEFApp\\StudentContext.cs",
+              "RelativeDocumentMoniker": "StudentEFApp\\StudentContext.cs",
+              "ToolTip": "C:\\Users\\johna\\source\\repos\\StudentEFApp\\StudentEFApp\\StudentContext.cs",
+              "RelativeToolTip": "StudentEFApp\\StudentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:44:38.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\johna\\source\\repos\\StudentEFApp\\StudentEFApp\\Student.cs",
+              "RelativeDocumentMoniker": "StudentEFApp\\Student.cs",
+              "ToolTip": "C:\\Users\\johna\\source\\repos\\StudentEFApp\\StudentEFApp\\Student.cs",
+              "RelativeToolTip": "StudentEFApp\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:40:17.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\johna\\source\\repos\\StudentEFApp\\StudentEFApp\\Form1.cs",
+              "RelativeDocumentMoniker": "StudentEFApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\johna\\source\\repos\\StudentEFApp\\StudentEFApp\\Form1.cs [Design]",
+              "RelativeToolTip": "StudentEFApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:37:19.944Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

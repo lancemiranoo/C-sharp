@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "86EI6dVS4kk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\johna\\source\\repos\\Assignment_2\\Reservations\\Reservations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johna\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\johna\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\johna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\johna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

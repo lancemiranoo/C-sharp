@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johna\\source\\repos\\bankManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{807E74FF-980F-494E-BB21-6524670E0E71}|bankManager\\bankManager.csproj|c:\\users\\johna\\source\\repos\\bankmanager\\bankmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{807E74FF-980F-494E-BB21-6524670E0E71}|bankManager\\bankManager.csproj|solutionrelative:bankmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{807E74FF-980F-494E-BB21-6524670E0E71}|bankManager\\bankManager.csproj|c:\\users\\johna\\source\\repos\\bankmanager\\bankmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{807E74FF-980F-494E-BB21-6524670E0E71}|bankManager\\bankManager.csproj|solutionrelative:bankmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{807E74FF-980F-494E-BB21-6524670E0E71}|bankManager\\bankManager.csproj|c:\\users\\johna\\source\\repos\\bankmanager\\bankmanager\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{807E74FF-980F-494E-BB21-6524670E0E71}|bankManager\\bankManager.csproj|solutionrelative:bankmanager\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\johna\\source\\repos\\bankManager\\bankManager\\BankAccount.cs",
+              "RelativeDocumentMoniker": "bankManager\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\johna\\source\\repos\\bankManager\\bankManager\\BankAccount.cs",
+              "RelativeToolTip": "bankManager\\BankAccount.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowD8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:12:43.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\johna\\source\\repos\\bankManager\\bankManager\\Form1.cs",
+              "RelativeDocumentMoniker": "bankManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\johna\\source\\repos\\bankManager\\bankManager\\Form1.cs*",
+              "RelativeToolTip": "bankManager\\Form1.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwDgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:08:19.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\johna\\source\\repos\\bankManager\\bankManager\\Form1.cs",
+              "RelativeDocumentMoniker": "bankManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\johna\\source\\repos\\bankManager\\bankManager\\Form1.cs [Design]*",
+              "RelativeToolTip": "bankManager\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:04:30.955Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

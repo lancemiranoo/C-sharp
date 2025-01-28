@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johna\\source\\repos\\MyInvestmentCalculatorSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE79F55-FFC7-403D-9BFC-8F3A78B548B3}|MyInvestmentCalculatorProject\\MyInvestmentCalculatorProject.csproj|c:\\users\\johna\\source\\repos\\myinvestmentcalculatorsolution\\myinvestmentcalculatorproject\\calculateinvestment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FE79F55-FFC7-403D-9BFC-8F3A78B548B3}|MyInvestmentCalculatorProject\\MyInvestmentCalculatorProject.csproj|solutionrelative:myinvestmentcalculatorproject\\calculateinvestment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculateInvestment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\johna\\source\\repos\\MyInvestmentCalculatorSolution\\MyInvestmentCalculatorProject\\CalculateInvestment.cs",
+              "RelativeDocumentMoniker": "MyInvestmentCalculatorProject\\CalculateInvestment.cs",
+              "ToolTip": "C:\\Users\\johna\\source\\repos\\MyInvestmentCalculatorSolution\\MyInvestmentCalculatorProject\\CalculateInvestment.cs [Design]",
+              "RelativeToolTip": "MyInvestmentCalculatorProject\\CalculateInvestment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T21:45:10.96Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

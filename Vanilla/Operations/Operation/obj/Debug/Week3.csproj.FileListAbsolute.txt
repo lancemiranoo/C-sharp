@@ -1,0 +1,10 @@
+C:\Users\johna\source\repos\Week3\Week3\bin\Debug\Week3.exe.config
+C:\Users\johna\source\repos\Week3\Week3\bin\Debug\Week3.exe
+C:\Users\johna\source\repos\Week3\Week3\bin\Debug\Week3.pdb
+C:\Users\johna\source\repos\Week3\Week3\obj\Debug\Week3.csproj.AssemblyReference.cache
+C:\Users\johna\source\repos\Week3\Week3\obj\Debug\Week3.Form1.resources
+C:\Users\johna\source\repos\Week3\Week3\obj\Debug\Week3.Properties.Resources.resources
+C:\Users\johna\source\repos\Week3\Week3\obj\Debug\Week3.csproj.GenerateResource.cache
+C:\Users\johna\source\repos\Week3\Week3\obj\Debug\Week3.csproj.CoreCompileInputs.cache
+C:\Users\johna\source\repos\Week3\Week3\obj\Debug\Week3.exe
+C:\Users\johna\source\repos\Week3\Week3\obj\Debug\Week3.pdb

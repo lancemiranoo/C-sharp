@@ -1,0 +1,10 @@
+C:\Users\johna\source\repos\bankManager\bankManager\bin\Debug\bankManager.exe.config
+C:\Users\johna\source\repos\bankManager\bankManager\bin\Debug\bankManager.exe
+C:\Users\johna\source\repos\bankManager\bankManager\bin\Debug\bankManager.pdb
+C:\Users\johna\source\repos\bankManager\bankManager\obj\Debug\bankManager.csproj.AssemblyReference.cache
+C:\Users\johna\source\repos\bankManager\bankManager\obj\Debug\bankManager.Form1.resources
+C:\Users\johna\source\repos\bankManager\bankManager\obj\Debug\bankManager.Properties.Resources.resources
+C:\Users\johna\source\repos\bankManager\bankManager\obj\Debug\bankManager.csproj.GenerateResource.cache
+C:\Users\johna\source\repos\bankManager\bankManager\obj\Debug\bankManager.csproj.CoreCompileInputs.cache
+C:\Users\johna\source\repos\bankManager\bankManager\obj\Debug\bankManager.exe
+C:\Users\johna\source\repos\bankManager\bankManager\obj\Debug\bankManager.pdb
