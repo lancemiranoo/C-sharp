@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Full Stack C#\\Full Stack\\Week 3\\StudentInfoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D62DA9D3-6504-4429-A930-FF0BFE672CDA}|StudentInfoApp\\StudentInfoApp.csproj|d:\\full stack c#\\full stack\\week 3\\studentinfoapp\\studentinfoapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D62DA9D3-6504-4429-A930-FF0BFE672CDA}|StudentInfoApp\\StudentInfoApp.csproj|solutionrelative:studentinfoapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62DA9D3-6504-4429-A930-FF0BFE672CDA}|StudentInfoApp\\StudentInfoApp.csproj|d:\\full stack c#\\full stack\\week 3\\studentinfoapp\\studentinfoapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D62DA9D3-6504-4429-A930-FF0BFE672CDA}|StudentInfoApp\\StudentInfoApp.csproj|solutionrelative:studentinfoapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62DA9D3-6504-4429-A930-FF0BFE672CDA}|StudentInfoApp\\StudentInfoApp.csproj|d:\\full stack c#\\full stack\\week 3\\studentinfoapp\\studentinfoapp\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D62DA9D3-6504-4429-A930-FF0BFE672CDA}|StudentInfoApp\\StudentInfoApp.csproj|solutionrelative:studentinfoapp\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62DA9D3-6504-4429-A930-FF0BFE672CDA}|StudentInfoApp\\StudentInfoApp.csproj|d:\\full stack c#\\full stack\\week 3\\studentinfoapp\\studentinfoapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D62DA9D3-6504-4429-A930-FF0BFE672CDA}|StudentInfoApp\\StudentInfoApp.csproj|solutionrelative:studentinfoapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62DA9D3-6504-4429-A930-FF0BFE672CDA}|StudentInfoApp\\StudentInfoApp.csproj|d:\\full stack c#\\full stack\\week 3\\studentinfoapp\\studentinfoapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D62DA9D3-6504-4429-A930-FF0BFE672CDA}|StudentInfoApp\\StudentInfoApp.csproj|solutionrelative:studentinfoapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Full Stack C#\\Full Stack\\Week 3\\StudentInfoApp\\StudentInfoApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentInfoApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Full Stack C#\\Full Stack\\Week 3\\StudentInfoApp\\StudentInfoApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StudentInfoApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T21:11:12.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Full Stack C#\\Full Stack\\Week 3\\StudentInfoApp\\StudentInfoApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentInfoApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Full Stack C#\\Full Stack\\Week 3\\StudentInfoApp\\StudentInfoApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentInfoApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T21:05:07.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Full Stack C#\\Full Stack\\Week 3\\StudentInfoApp\\StudentInfoApp\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "StudentInfoApp\\Views\\Student\\Details.cshtml",
+              "ToolTip": "D:\\Full Stack C#\\Full Stack\\Week 3\\StudentInfoApp\\StudentInfoApp\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "StudentInfoApp\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T21:01:53.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Full Stack C#\\Full Stack\\Week 3\\StudentInfoApp\\StudentInfoApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentInfoApp\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Full Stack C#\\Full Stack\\Week 3\\StudentInfoApp\\StudentInfoApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentInfoApp\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T20:55:44.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Full Stack C#\\Full Stack\\Week 3\\StudentInfoApp\\StudentInfoApp\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentInfoApp\\Models\\Student.cs",
+              "ToolTip": "D:\\Full Stack C#\\Full Stack\\Week 3\\StudentInfoApp\\StudentInfoApp\\Models\\Student.cs",
+              "RelativeToolTip": "StudentInfoApp\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T20:53:02.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

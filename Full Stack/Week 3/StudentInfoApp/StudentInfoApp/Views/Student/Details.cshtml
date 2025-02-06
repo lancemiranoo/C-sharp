@@ -1,0 +1,14 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model StudentInfoApp.Models.Student
+
+<h2>Student Details</h2>
+<p><strong>Name:</strong>@Model.Name</p>
+<p><strong>Age:</strong>@Model.Age</p>
+<p><strong>Course:</strong>@Model.Course</p>
+<a asp-controller="Home" asp-action="Index">Back to Home</a>

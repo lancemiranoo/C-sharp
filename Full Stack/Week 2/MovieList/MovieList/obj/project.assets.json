@@ -4739,11 +4739,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Full Stack C#\\Week 2\\MovieList\\MovieList\\MovieList.csproj",
+      "projectUniqueName": "D:\\Full Stack C#\\Full Stack\\Week 2\\MovieList\\MovieList\\MovieList.csproj",
       "projectName": "MovieList",
-      "projectPath": "D:\\Full Stack C#\\Week 2\\MovieList\\MovieList\\MovieList.csproj",
+      "projectPath": "D:\\Full Stack C#\\Full Stack\\Week 2\\MovieList\\MovieList\\MovieList.csproj",
       "packagesPath": "C:\\Users\\johna\\.nuget\\packages\\",
-      "outputPath": "D:\\Full Stack C#\\Week 2\\MovieList\\MovieList\\obj\\",
+      "outputPath": "D:\\Full Stack C#\\Full Stack\\Week 2\\MovieList\\MovieList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

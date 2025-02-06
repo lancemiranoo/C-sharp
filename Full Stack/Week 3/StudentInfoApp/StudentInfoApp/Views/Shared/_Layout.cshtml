@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - StudentInfoApp</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/StudentInfoApp.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Student Information Application</h1>
+            <nav>
+                <a asp-controller="Home" asp-action="Index">Home</a>
+                <a asp-controller="Student" asp-action="Details">Student Details</a>
+            </nav>
+        </header>
+        <hr />
+        <main role="main">
+            @RenderBody()
+        </main>
+        <footer>
+            <hr />
+            <p>&copy; 2024 - Student Info App</p>
+        </footer>
+    </div>
+</body>
+</html>

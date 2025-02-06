@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Full Stack C#\\Full Stack\\Week 3\\Ch06Ex1RoutingPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCEFED3-0FB6-462C-A823-8354C502A4CA}|RoutingPractice\\RoutingPractice.csproj|d:\\full stack c#\\full stack\\week 3\\ch06ex1routingpractice\\routingpractice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCEFED3-0FB6-462C-A823-8354C502A4CA}|RoutingPractice\\RoutingPractice.csproj|solutionrelative:routingpractice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCEFED3-0FB6-462C-A823-8354C502A4CA}|RoutingPractice\\RoutingPractice.csproj|d:\\full stack c#\\full stack\\week 3\\ch06ex1routingpractice\\routingpractice\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCEFED3-0FB6-462C-A823-8354C502A4CA}|RoutingPractice\\RoutingPractice.csproj|solutionrelative:routingpractice\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Full Stack C#\\Full Stack\\Week 3\\Ch06Ex1RoutingPractice\\RoutingPractice\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RoutingPractice\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Full Stack C#\\Full Stack\\Week 3\\Ch06Ex1RoutingPractice\\RoutingPractice\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "RoutingPractice\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:58:20.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Full Stack C#\\Full Stack\\Week 3\\Ch06Ex1RoutingPractice\\RoutingPractice\\Startup.cs",
+              "RelativeDocumentMoniker": "RoutingPractice\\Startup.cs",
+              "ToolTip": "D:\\Full Stack C#\\Full Stack\\Week 3\\Ch06Ex1RoutingPractice\\RoutingPractice\\Startup.cs",
+              "RelativeToolTip": "RoutingPractice\\Startup.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:57:20.822Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

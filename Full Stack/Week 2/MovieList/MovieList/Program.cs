@@ -31,17 +31,4 @@ app.MapControllerRoute(
 
 app.Run();
 
-public class Startup
-{
-    public Startup(IConfiguration configuration)
-    {
-        configuration = configuration;
-    }
-    public IConfiguration Configuration { get; }
-    public void ConfigureServices(IServiceCollection services)
-    {
-        services.AddDbContext<MovieContext>(Options =>
-        Options.UseSqlServer(
-            Configuration.GetConnectionString("MovieContext")));
-    }
-}
+
