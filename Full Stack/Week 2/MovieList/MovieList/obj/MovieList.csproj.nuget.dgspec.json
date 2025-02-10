@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Full Stack C#\\Full Stack\\Week 2\\MovieList\\MovieList\\MovieList.csproj": {}
+    "D:\\Winter Term 2025\\C#\\Full Stack\\Week 2\\MovieList\\MovieList\\MovieList.csproj": {}
   },
   "projects": {
-    "D:\\Full Stack C#\\Full Stack\\Week 2\\MovieList\\MovieList\\MovieList.csproj": {
+    "D:\\Winter Term 2025\\C#\\Full Stack\\Week 2\\MovieList\\MovieList\\MovieList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Full Stack C#\\Full Stack\\Week 2\\MovieList\\MovieList\\MovieList.csproj",
+        "projectUniqueName": "D:\\Winter Term 2025\\C#\\Full Stack\\Week 2\\MovieList\\MovieList\\MovieList.csproj",
         "projectName": "MovieList",
-        "projectPath": "D:\\Full Stack C#\\Full Stack\\Week 2\\MovieList\\MovieList\\MovieList.csproj",
-        "packagesPath": "C:\\Users\\johna\\.nuget\\packages\\",
-        "outputPath": "D:\\Full Stack C#\\Full Stack\\Week 2\\MovieList\\MovieList\\obj\\",
+        "projectPath": "D:\\Winter Term 2025\\C#\\Full Stack\\Week 2\\MovieList\\MovieList\\MovieList.csproj",
+        "packagesPath": "C:\\Users\\Lance\\.nuget\\packages\\",
+        "outputPath": "D:\\Winter Term 2025\\C#\\Full Stack\\Week 2\\MovieList\\MovieList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\johna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lance\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
