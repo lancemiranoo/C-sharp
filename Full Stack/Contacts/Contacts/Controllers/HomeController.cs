@@ -7,7 +7,7 @@ namespace Contacts.Controllers
 {
     public class HomeController : Controller
     {
-        private ContactContext context {  get; set; }
+        private ContactContext context { get; set; }
         public HomeController(ContactContext ctx)
         {
             context = ctx;

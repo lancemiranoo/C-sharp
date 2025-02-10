@@ -1,8 +1,35 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿@model List<Contact>
+@{
+    ViewData["Title"] = "My Contacts";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<h2>Contact List</h2>
+
+<a asp-asp-controller="Contact" asp-action="Add">Add Contact</a>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Phone Number</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var contact in Model)
+        {
+            <tr>
+                <td>@contact.FName</td>
+                <td>@contact.LName</td>
+                <td>@contact.PNumber</td>
+                <td>@contact.Email</td>
+                <td>
+                    <a asp-controller="Contact" asp-action="Edit"
+                       asp-route-id="@contact.ContactId">Edit</a>
+                    <a asp-controller="Contact" asp-action="Delete"
+                       asp-route-id="@contact.ContactId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

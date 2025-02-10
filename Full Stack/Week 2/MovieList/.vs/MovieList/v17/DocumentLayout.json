@@ -11,20 +11,20 @@
       "RelativeMoniker": "D:0:0:{4678F518-EDC3-4A3B-9C8D-14CC05B7ABF4}|MovieList\\MovieList.csproj|solutionrelative:movielist\\models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4678F518-EDC3-4A3B-9C8D-14CC05B7ABF4}|MovieList\\MovieList.csproj|d:\\winter term 2025\\c#\\full stack\\week 2\\movielist\\movielist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4678F518-EDC3-4A3B-9C8D-14CC05B7ABF4}|MovieList\\MovieList.csproj|solutionrelative:movielist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4678F518-EDC3-4A3B-9C8D-14CC05B7ABF4}|MovieList\\MovieList.csproj|d:\\winter term 2025\\c#\\full stack\\week 2\\movielist\\movielist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4678F518-EDC3-4A3B-9C8D-14CC05B7ABF4}|MovieList\\MovieList.csproj|solutionrelative:movielist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4678F518-EDC3-4A3B-9C8D-14CC05B7ABF4}|MovieList\\MovieList.csproj|d:\\winter term 2025\\c#\\full stack\\week 2\\movielist\\movielist\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4678F518-EDC3-4A3B-9C8D-14CC05B7ABF4}|MovieList\\MovieList.csproj|solutionrelative:movielist\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4678F518-EDC3-4A3B-9C8D-14CC05B7ABF4}|MovieList\\MovieList.csproj|d:\\winter term 2025\\c#\\full stack\\week 2\\movielist\\movielist\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4678F518-EDC3-4A3B-9C8D-14CC05B7ABF4}|MovieList\\MovieList.csproj|solutionrelative:movielist\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4678F518-EDC3-4A3B-9C8D-14CC05B7ABF4}|MovieList\\MovieList.csproj|d:\\winter term 2025\\c#\\full stack\\week 2\\movielist\\movielist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4678F518-EDC3-4A3B-9C8D-14CC05B7ABF4}|MovieList\\MovieList.csproj|solutionrelative:movielist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4678F518-EDC3-4A3B-9C8D-14CC05B7ABF4}|MovieList\\MovieList.csproj|d:\\winter term 2025\\c#\\full stack\\week 2\\movielist\\movielist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4678F518-EDC3-4A3B-9C8D-14CC05B7ABF4}|MovieList\\MovieList.csproj|solutionrelative:movielist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4678F518-EDC3-4A3B-9C8D-14CC05B7ABF4}|MovieList\\MovieList.csproj|d:\\winter term 2025\\c#\\full stack\\week 2\\movielist\\movielist\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -86,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -95,6 +95,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Winter Term 2025\\C#\\Full Stack\\Week 2\\MovieList\\MovieList\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MovieList\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Winter Term 2025\\C#\\Full Stack\\Week 2\\MovieList\\MovieList\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MovieList\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:41:49.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "D:\\Winter Term 2025\\C#\\Full Stack\\Week 2\\MovieList\\MovieList\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "MovieList\\Controllers\\MovieController.cs",
+              "ToolTip": "D:\\Winter Term 2025\\C#\\Full Stack\\Week 2\\MovieList\\MovieList\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "MovieList\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:42:39.457Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -117,27 +143,14 @@
               "RelativeDocumentMoniker": "MovieList\\Models\\Movie.cs",
               "ToolTip": "D:\\Winter Term 2025\\C#\\Full Stack\\Week 2\\MovieList\\MovieList\\Models\\Movie.cs",
               "RelativeToolTip": "MovieList\\Models\\Movie.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBcAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T21:10:41.404Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Winter Term 2025\\C#\\Full Stack\\Week 2\\MovieList\\MovieList\\Program.cs",
-              "RelativeDocumentMoniker": "MovieList\\Program.cs",
-              "ToolTip": "D:\\Winter Term 2025\\C#\\Full Stack\\Week 2\\MovieList\\MovieList\\Program.cs",
-              "RelativeToolTip": "MovieList\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T21:31:16.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Winter Term 2025\\C#\\Full Stack\\Week 2\\MovieList\\MovieList\\appsettings.json",
               "RelativeDocumentMoniker": "MovieList\\appsettings.json",
@@ -145,34 +158,19 @@
               "RelativeToolTip": "MovieList\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-21T21:28:25.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Winter Term 2025\\C#\\Full Stack\\Week 2\\MovieList\\MovieList\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MovieList\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Winter Term 2025\\C#\\Full Stack\\Week 2\\MovieList\\MovieList\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MovieList\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T20:41:49.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T21:28:25.637Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MovieController.cs",
-              "DocumentMoniker": "D:\\Winter Term 2025\\C#\\Full Stack\\Week 2\\MovieList\\MovieList\\Controllers\\MovieController.cs",
-              "RelativeDocumentMoniker": "MovieList\\Controllers\\MovieController.cs",
-              "ToolTip": "D:\\Winter Term 2025\\C#\\Full Stack\\Week 2\\MovieList\\MovieList\\Controllers\\MovieController.cs",
-              "RelativeToolTip": "MovieList\\Controllers\\MovieController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Winter Term 2025\\C#\\Full Stack\\Week 2\\MovieList\\MovieList\\Program.cs",
+              "RelativeDocumentMoniker": "MovieList\\Program.cs",
+              "ToolTip": "D:\\Winter Term 2025\\C#\\Full Stack\\Week 2\\MovieList\\MovieList\\Program.cs",
+              "RelativeToolTip": "MovieList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T20:42:39.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T21:31:16.28Z"
             },
             {
               "$type": "Document",

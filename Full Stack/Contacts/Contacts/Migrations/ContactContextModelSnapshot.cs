@@ -41,8 +41,9 @@ namespace Contacts.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("PNumber")
-                        .HasColumnType("int");
+                    b.Property<string>("PNumber")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("ContactId");
 
@@ -55,7 +56,7 @@ namespace Contacts.Migrations
                             Email = "joaquin@gmail.com",
                             FName = "Joaquin",
                             LName = "Remulla",
-                            PNumber = -1795
+                            PNumber = "825-841-1779"
                         },
                         new
                         {
@@ -63,7 +64,7 @@ namespace Contacts.Migrations
                             Email = "charles@gmail.com",
                             FName = "Charles",
                             LName = "Omagap",
-                            PNumber = -5001
+                            PNumber = "825-914-4912"
                         },
                         new
                         {
@@ -71,7 +72,7 @@ namespace Contacts.Migrations
                             Email = "hanni@gmail.com",
                             FName = "Hanni",
                             LName = "Pham",
-                            PNumber = -4704
+                            PNumber = "825-514-5015"
                         });
                 });
 #pragma warning restore 612, 618
