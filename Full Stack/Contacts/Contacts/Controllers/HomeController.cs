@@ -2,6 +2,7 @@ using System.Diagnostics;
 using Contacts.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Linq;
+using Microsoft.EntityFrameworkCore;
 
 namespace Contacts.Controllers
 {
@@ -14,7 +15,10 @@ namespace Contacts.Controllers
         }
         public IActionResult Index()
         {
-            var contacts = context.Contacts.OrderBy(c => c.FName).ToList();
+            var contacts = context.Contacts
+                .Include(c => c.Category)
+                .OrderBy(c => c.FName)
+                .ToList();
             return View(contacts);
         }
     }
