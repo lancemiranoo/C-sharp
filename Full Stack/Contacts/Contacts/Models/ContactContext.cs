@@ -16,10 +16,10 @@ namespace Contacts.Models
             base.OnModelCreating(modelBuilder);
 
             modelBuilder.Entity<Category>().HasData(
-                new Category { CategoryId = "A", Name = "Friend" },
-                new Category { CategoryId = "B", Name = "Work" },
-                new Category { CategoryId = "C", Name = "Family" },
-                new Category { CategoryId = "D", Name = "Acquaintance" }
+                new Category { CategoryId = 1, Name = "Friend" },
+                new Category { CategoryId = 2, Name = "Work" },
+                new Category { CategoryId = 3, Name = "Family" },
+                new Category { CategoryId = 4, Name = "Acquaintance" }
                 );
 
             modelBuilder.Entity<Contact>().HasData(
@@ -30,8 +30,9 @@ namespace Contacts.Models
                     LName = "Remulla",
                     PNumber = "825-841-1779",
                     Email = "joaquin@gmail.com",
-                    CategoryId = "D",
-                    Organization = " "
+                    CategoryId = 1,
+                    Organization = " ",
+                    DateAdded = new DateTime(2025,2,10)
                 },
                 new Contact
                 {
@@ -40,8 +41,9 @@ namespace Contacts.Models
                     LName = "Omagap",
                     PNumber = "825-914-4912",
                     Email = "charles@gmail.com",
-                    CategoryId = "A",
-                    Organization = " "
+                    CategoryId = 2,
+                    Organization = " ",
+                    DateAdded = new DateTime(2025, 2, 10)
                 },
                 new Contact
                 {
@@ -50,8 +52,9 @@ namespace Contacts.Models
                     LName = "Pham",
                     PNumber = "825-514-5015",
                     Email = "hanni@gmail.com",
-                    CategoryId ="C",
-                    Organization = " "
+                    CategoryId = 3,
+                    Organization = " ",
+                    DateAdded = new DateTime(2025, 2, 10)
                 }
             );
         }

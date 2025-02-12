@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Contacts.Migrations
 {
     [DbContext(typeof(ContactContext))]
-    [Migration("20250211074525_Organization")]
-    partial class Organization
+    [Migration("20250212000530_Initial")]
+    partial class Initial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -27,8 +27,11 @@ namespace Contacts.Migrations
 
             modelBuilder.Entity("Contacts.Models.Category", b =>
                 {
-                    b.Property<string>("CategoryId")
-                        .HasColumnType("nvarchar(450)");
+                    b.Property<int>("CategoryId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CategoryId"));
 
                     b.Property<string>("Name")
                         .IsRequired()
@@ -41,22 +44,22 @@ namespace Contacts.Migrations
                     b.HasData(
                         new
                         {
-                            CategoryId = "A",
+                            CategoryId = 1,
                             Name = "Friend"
                         },
                         new
                         {
-                            CategoryId = "B",
+                            CategoryId = 2,
                             Name = "Work"
                         },
                         new
                         {
-                            CategoryId = "C",
+                            CategoryId = 3,
                             Name = "Family"
                         },
                         new
                         {
-                            CategoryId = "D",
+                            CategoryId = 4,
                             Name = "Acquaintance"
                         });
                 });
@@ -69,9 +72,8 @@ namespace Contacts.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ContactId"));
 
-                    b.Property<string>("CategoryId")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(450)");
+                    b.Property<int>("CategoryId")
+                        .HasColumnType("int");
 
                     b.Property<DateTime>("DateAdded")
                         .HasColumnType("datetime2");
@@ -105,8 +107,8 @@ namespace Contacts.Migrations
                         new
                         {
                             ContactId = 1,
-                            CategoryId = "A",
-                            DateAdded = new DateTime(2025, 2, 11, 0, 45, 23, 835, DateTimeKind.Local).AddTicks(5336),
+                            CategoryId = 1,
+                            DateAdded = new DateTime(2025, 2, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Email = "joaquin@gmail.com",
                             FName = "Joaquin",
                             LName = "Remulla",
@@ -116,8 +118,8 @@ namespace Contacts.Migrations
                         new
                         {
                             ContactId = 2,
-                            CategoryId = "B",
-                            DateAdded = new DateTime(2025, 2, 11, 0, 45, 23, 837, DateTimeKind.Local).AddTicks(4877),
+                            CategoryId = 2,
+                            DateAdded = new DateTime(2025, 2, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Email = "charles@gmail.com",
                             FName = "Charles",
                             LName = "Omagap",
@@ -127,8 +129,8 @@ namespace Contacts.Migrations
                         new
                         {
                             ContactId = 3,
-                            CategoryId = "C",
-                            DateAdded = new DateTime(2025, 2, 11, 0, 45, 23, 837, DateTimeKind.Local).AddTicks(4895),
+                            CategoryId = 3,
+                            DateAdded = new DateTime(2025, 2, 10, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Email = "hanni@gmail.com",
                             FName = "Hanni",
                             LName = "Pham",

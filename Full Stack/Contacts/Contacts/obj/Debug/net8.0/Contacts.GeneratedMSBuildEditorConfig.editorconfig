@@ -17,49 +17,49 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Contacts
 build_property.RootNamespace = Contacts
-build_property.ProjectDir = D:\Winter Term 2025\C#\Full Stack\Contacts\Contacts\
+build_property.ProjectDir = D:\Full Stack C#\C-sharp\Full Stack\Contacts\Contacts\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Winter Term 2025\C#\Full Stack\Contacts\Contacts
+build_property.MSBuildProjectDirectory = D:\Full Stack C#\C-sharp\Full Stack\Contacts\Contacts
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/Winter Term 2025/C\#/Full Stack/Contacts/Contacts/Views/Contact/Delete.cshtml]
+[D:/Full Stack C\#/C-sharp/Full Stack/Contacts/Contacts/Views/Contact/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Winter Term 2025/C\#/Full Stack/Contacts/Contacts/Views/Contact/Details.cshtml]
+[D:/Full Stack C\#/C-sharp/Full Stack/Contacts/Contacts/Views/Contact/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Winter Term 2025/C\#/Full Stack/Contacts/Contacts/Views/Contact/Edit.cshtml]
+[D:/Full Stack C\#/C-sharp/Full Stack/Contacts/Contacts/Views/Contact/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Winter Term 2025/C\#/Full Stack/Contacts/Contacts/Views/Home/Index.cshtml]
+[D:/Full Stack C\#/C-sharp/Full Stack/Contacts/Contacts/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Winter Term 2025/C\#/Full Stack/Contacts/Contacts/Views/Shared/Error.cshtml]
+[D:/Full Stack C\#/C-sharp/Full Stack/Contacts/Contacts/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Winter Term 2025/C\#/Full Stack/Contacts/Contacts/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Full Stack C\#/C-sharp/Full Stack/Contacts/Contacts/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Winter Term 2025/C\#/Full Stack/Contacts/Contacts/Views/_ViewImports.cshtml]
+[D:/Full Stack C\#/C-sharp/Full Stack/Contacts/Contacts/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Winter Term 2025/C\#/Full Stack/Contacts/Contacts/Views/_ViewStart.cshtml]
+[D:/Full Stack C\#/C-sharp/Full Stack/Contacts/Contacts/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Winter Term 2025/C\#/Full Stack/Contacts/Contacts/Views/Shared/_Layout.cshtml]
+[D:/Full Stack C\#/C-sharp/Full Stack/Contacts/Contacts/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2xdc3wshes

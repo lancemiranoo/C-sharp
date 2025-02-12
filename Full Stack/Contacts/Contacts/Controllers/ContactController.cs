@@ -15,7 +15,6 @@ namespace Contacts.Controllers
         public IActionResult Add()
         {
             ViewBag.Action = "Add";
-            ViewBag.Genres = context.Contacts.OrderBy(g => g.FName).ToList();
             ViewBag.Categories = context.Categories.ToList();
             return View("Edit", new Contact());
         }

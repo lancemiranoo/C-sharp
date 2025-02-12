@@ -1,82 +1,82 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\",
+  "WorkspaceRootPath": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\winter term 2025\\c#\\full stack\\contacts\\contacts\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\full stack c#\\c-sharp\\full stack\\contacts\\contacts\\migrations\\20250212000530_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\migrations\\20250212000530_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\winter term 2025\\c#\\full stack\\contacts\\contacts\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\winter term 2025\\c#\\full stack\\contacts\\contacts\\views\\contact\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\views\\contact\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\winter term 2025\\c#\\full stack\\contacts\\contacts\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\winter term 2025\\c#\\full stack\\contacts\\contacts\\views\\contact\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\views\\contact\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\winter term 2025\\c#\\full stack\\contacts\\contacts\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\winter term 2025\\c#\\full stack\\contacts\\contacts\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\winter term 2025\\c#\\full stack\\contacts\\contacts\\models\\contactcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\full stack c#\\c-sharp\\full stack\\contacts\\contacts\\models\\contactcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\models\\contactcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\winter term 2025\\c#\\full stack\\contacts\\contacts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\full stack c#\\c-sharp\\full stack\\contacts\\contacts\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\full stack c#\\c-sharp\\full stack\\contacts\\contacts\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\full stack c#\\c-sharp\\full stack\\contacts\\contacts\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\full stack c#\\c-sharp\\full stack\\contacts\\contacts\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\full stack c#\\c-sharp\\full stack\\contacts\\contacts\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\full stack c#\\c-sharp\\full stack\\contacts\\contacts\\views\\contact\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\views\\contact\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\full stack c#\\c-sharp\\full stack\\contacts\\contacts\\views\\contact\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\views\\contact\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\full stack c#\\c-sharp\\full stack\\contacts\\contacts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\winter term 2025\\c#\\full stack\\contacts\\contacts\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Migrations\\20250211230916_test5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Contacts\\Migrations\\20250211230916_test5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\winter term 2025\\c#\\full stack\\contacts\\contacts\\views\\contact\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Migrations\\20250211224907_Test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Contacts\\Migrations\\20250211224907_Test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\full stack c#\\c-sharp\\full stack\\contacts\\contacts\\views\\contact\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\views\\contact\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\winter term 2025\\c#\\full stack\\contacts\\contacts\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\winter term 2025\\c#\\full stack\\contacts\\contacts\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\winter term 2025\\c#\\full stack\\contacts\\contacts\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\winter term 2025\\c#\\full stack\\contacts\\contacts\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\winter term 2025\\c#\\full stack\\contacts\\contacts\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\full stack c#\\c-sharp\\full stack\\contacts\\contacts\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\winter term 2025\\c#\\full stack\\contacts\\contacts\\migrations\\20250210155717_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\migrations\\20250210155717_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\full stack c#\\c-sharp\\full stack\\contacts\\contacts\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\winter term 2025\\c#\\full stack\\contacts\\contacts\\migrations\\20250211074805_contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\migrations\\20250211074805_contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\full stack c#\\c-sharp\\full stack\\contacts\\contacts\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\winter term 2025\\c#\\full stack\\contacts\\contacts\\migrations\\20250211074525_organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\migrations\\20250211074525_organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\full stack c#\\c-sharp\\full stack\\contacts\\contacts\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\full stack c#\\c-sharp\\full stack\\contacts\\contacts\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|d:\\full stack c#\\c-sharp\\full stack\\contacts\\contacts\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A41610A2-008E-41F5-B591-EDF7E21F3839}|Contacts\\Contacts.csproj|solutionrelative:contacts\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,74 +86,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "Contacts\\Controllers\\ContactController.cs",
-              "ToolTip": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "Contacts\\Controllers\\ContactController.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAcwE4AAAAAAAAAAAAAAA==",
+              "Title": "20250212000530_Initial.cs",
+              "DocumentMoniker": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Migrations\\20250212000530_Initial.cs",
+              "RelativeDocumentMoniker": "Contacts\\Migrations\\20250212000530_Initial.cs",
+              "ToolTip": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Migrations\\20250212000530_Initial.cs",
+              "RelativeToolTip": "Contacts\\Migrations\\20250212000530_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T16:00:01.738Z",
+              "WhenOpened": "2025-02-12T00:05:30.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250211230916_test5.cs",
+              "DocumentMoniker": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Migrations\\20250211230916_test5.cs",
+              "RelativeDocumentMoniker": "Contacts\\Migrations\\20250211230916_test5.cs",
+              "ToolTip": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Migrations\\20250211230916_test5.cs",
+              "RelativeToolTip": "Contacts\\Migrations\\20250211230916_test5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T23:09:17.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250211224907_Test2.cs",
+              "DocumentMoniker": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Migrations\\20250211224907_Test2.cs",
+              "RelativeDocumentMoniker": "Contacts\\Migrations\\20250211224907_Test2.cs",
+              "ToolTip": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Migrations\\20250211224907_Test2.cs",
+              "RelativeToolTip": "Contacts\\Migrations\\20250211224907_Test2.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T22:49:07.527Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Contacts\\Controllers\\ContactController.cs",
+              "ToolTip": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Contacts\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAnwDIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T16:00:01.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Views\\Contact\\Edit.cshtml",
+              "DocumentMoniker": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Views\\Contact\\Edit.cshtml",
               "RelativeDocumentMoniker": "Contacts\\Views\\Contact\\Edit.cshtml",
-              "ToolTip": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Views\\Contact\\Edit.cshtml",
+              "ToolTip": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Views\\Contact\\Edit.cshtml",
               "RelativeToolTip": "Contacts\\Views\\Contact\\Edit.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAD8AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-10T16:01:45.618Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Contacts\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Contacts\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAvwBwAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-10T15:58:47.689Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Contact.cs",
-              "DocumentMoniker": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Models\\Contact.cs",
+              "DocumentMoniker": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Models\\Contact.cs",
               "RelativeDocumentMoniker": "Contacts\\Models\\Contact.cs",
-              "ToolTip": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Models\\Contact.cs",
+              "ToolTip": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Models\\Contact.cs",
               "RelativeToolTip": "Contacts\\Models\\Contact.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T15:55:53.345Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Category.cs",
-              "DocumentMoniker": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Models\\Category.cs",
+              "DocumentMoniker": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Contacts\\Models\\Category.cs",
-              "ToolTip": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Models\\Category.cs",
+              "ToolTip": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Models\\Category.cs",
               "RelativeToolTip": "Contacts\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T07:17:38.79Z"
             },
@@ -161,57 +189,57 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Contacts\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Contacts\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T15:58:08.912Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Views\\Contact\\Details.cshtml",
+              "DocumentMoniker": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Views\\Contact\\Details.cshtml",
               "RelativeDocumentMoniker": "Contacts\\Views\\Contact\\Details.cshtml",
-              "ToolTip": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Views\\Contact\\Details.cshtml",
+              "ToolTip": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Views\\Contact\\Details.cshtml",
               "RelativeToolTip": "Contacts\\Views\\Contact\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvyMAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-11T08:17:06.765Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "ContactContext.cs",
-              "DocumentMoniker": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Models\\ContactContext.cs",
+              "DocumentMoniker": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Models\\ContactContext.cs",
               "RelativeDocumentMoniker": "Contacts\\Models\\ContactContext.cs",
-              "ToolTip": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Models\\ContactContext.cs",
+              "ToolTip": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Models\\ContactContext.cs",
               "RelativeToolTip": "Contacts\\Models\\ContactContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwDQAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDgAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T15:55:17.686Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Program.cs",
+              "DocumentMoniker": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Program.cs",
               "RelativeDocumentMoniker": "Contacts\\Program.cs",
-              "ToolTip": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Program.cs",
+              "ToolTip": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Program.cs",
               "RelativeToolTip": "Contacts\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwCkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T15:56:26.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Contacts\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Contacts\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -219,23 +247,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Views\\Contact\\Delete.cshtml",
+              "DocumentMoniker": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Views\\Contact\\Delete.cshtml",
               "RelativeDocumentMoniker": "Contacts\\Views\\Contact\\Delete.cshtml",
-              "ToolTip": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Views\\Contact\\Delete.cshtml",
+              "ToolTip": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Views\\Contact\\Delete.cshtml",
               "RelativeToolTip": "Contacts\\Views\\Contact\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-10T16:20:38.377Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Views\\Shared\\Error.cshtml",
+              "DocumentMoniker": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Contacts\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Views\\Shared\\Error.cshtml",
               "RelativeToolTip": "Contacts\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -243,35 +271,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "20250211074805_Contacts.cs",
-              "DocumentMoniker": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Migrations\\20250211074805_Contacts.cs",
-              "RelativeDocumentMoniker": "Contacts\\Migrations\\20250211074805_Contacts.cs",
-              "ToolTip": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Migrations\\20250211074805_Contacts.cs",
-              "RelativeToolTip": "Contacts\\Migrations\\20250211074805_Contacts.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T07:48:05.514Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "20250211074525_Organization.cs",
-              "DocumentMoniker": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Migrations\\20250211074525_Organization.cs",
-              "RelativeDocumentMoniker": "Contacts\\Migrations\\20250211074525_Organization.cs",
-              "ToolTip": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Migrations\\20250211074525_Organization.cs",
-              "RelativeToolTip": "Contacts\\Migrations\\20250211074525_Organization.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T07:45:25.795Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Contacts\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Contacts\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -279,11 +283,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Contacts\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Contacts\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -291,11 +295,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Contacts\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Contacts\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAkwCAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -303,23 +307,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "20250210155717_Initial.cs",
-              "DocumentMoniker": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Migrations\\20250210155717_Initial.cs",
-              "RelativeDocumentMoniker": "Contacts\\Migrations\\20250210155717_Initial.cs",
-              "ToolTip": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Migrations\\20250210155717_Initial.cs",
-              "RelativeToolTip": "Contacts\\Migrations\\20250210155717_Initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T15:57:17.409Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\appsettings.json",
+              "DocumentMoniker": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\appsettings.json",
               "RelativeDocumentMoniker": "Contacts\\appsettings.json",
-              "ToolTip": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\appsettings.json",
+              "ToolTip": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\appsettings.json",
               "RelativeToolTip": "Contacts\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Contacts.csproj": {}
+    "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Contacts.csproj": {}
   },
   "projects": {
-    "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Contacts.csproj": {
+    "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Contacts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Contacts.csproj",
+        "projectUniqueName": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Contacts.csproj",
         "projectName": "Contacts",
-        "projectPath": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\Contacts.csproj",
-        "packagesPath": "C:\\Users\\Lance\\.nuget\\packages\\",
-        "outputPath": "D:\\Winter Term 2025\\C#\\Full Stack\\Contacts\\Contacts\\obj\\",
+        "projectPath": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\Contacts.csproj",
+        "packagesPath": "C:\\Users\\johna\\.nuget\\packages\\",
+        "outputPath": "D:\\Full Stack C#\\C-sharp\\Full Stack\\Contacts\\Contacts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Lance\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\johna\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
